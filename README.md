@@ -58,3 +58,21 @@ Make executable:
 
 ```bash
 chmod +x backup.sh
+```
+
+Run manually: 
+
+```
+./backup.sh <source_directory> <destination_directory>
+```
+Install system wide:
+
+```
+sudo cp backup.sh /usr/local/bin/
+```
+
+Schedule with cron (daily at 2 AM):
+
+```
+0 2 * * * /usr/local/bin/backup.sh /source /destination
+```
