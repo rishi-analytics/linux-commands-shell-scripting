@@ -1,7 +1,15 @@
+![Linux](https://img.shields.io/badge/Linux-CLI-black)
+![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?logo=gnu-bash&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-Cron-orange)
+![Project Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-blue)
+[![Portfolio](https://img.shields.io/badge/Data%20Velho-Rishi-blueviolet)](https://rishi-analytics.github.io/)
+
+
 # Linux Commands and Shell Scripting
 Hands on experience in using Linux commands and shell scripting for file handling, batch operation, and workflow automation.
 
-<p id="PySpark_Certificate" align="center">
+# <p id="PySpark_Certificate" align="center">
 
 <img src="images/kesari.rishi_ShellScriotingCertificate.png"  width="1000"  height="800">
     
@@ -76,3 +84,53 @@ Schedule with cron (daily at 2 AM):
 ```
 0 2 * * * /usr/local/bin/backup.sh /source /destination
 ```
+Sample Output-
+Example backup file created:
+
+backup-1700000000.tar.gz
+---
+
+## Project Execution Screenshots
+
+### Backup Script Implementation
+
+<p align="center">
+  <img src="images/script image 1.png" width="45%" />
+  <img src="images/script image 2.png" width="45%" />
+</p>
+
+### Cron Job Execution
+
+![Cron Running](images/17-crontab.png)
+
+### Generated Backup File
+
+![Backup Output](images/16-backup-complete.png)
+
+---
+
+## Key Learnings (Data & Process Automation Perspective)
+
+- Leveraged Linux CLI to automate repetitive operational workflows  
+- Applied time-based filtering using Unix timestamps for dynamic data selection  
+- Built a Bash automation script to reduce manual error and improve process reliability  
+- Implemented conditional logic to programmatically identify recently modified files  
+- Used arrays to handle dynamic datasets in shell environments  
+- Automated archival and compression of sensitive files for operational efficiency  
+- Scheduled recurring jobs using `cron`, simulating real-world production automation  
+- Strengthened understanding of system-level data pipelines and batch processing  
+
+---
+
+## Analytical Relevance
+
+Although implemented in Bash, this project mirrors real-world data engineering and analytics workflows:
+
+- Automating recurring data extraction tasks  
+- Filtering data based on temporal logic  
+- Managing file-based data pipelines  
+- Reducing manual operational overhead  
+- Ensuring reproducibility and consistency in automated systems  
+
+This project demonstrates foundational automation skills that support scalable analytics and data operations environments.
+---
