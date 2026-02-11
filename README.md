@@ -62,9 +62,8 @@ The script:
 
 ## How to Run
 
-Make executable:
-
-```bash
+### Make the script executable
+```
 chmod +x backup.sh
 ```
 
@@ -73,6 +72,7 @@ Run manually:
 ```
 ./backup.sh <source_directory> <destination_directory>
 ```
+
 Install system wide:
 
 ```
@@ -84,13 +84,15 @@ Schedule with cron (daily at 2 AM):
 ```
 0 2 * * * /usr/local/bin/backup.sh /source /destination
 ```
-Sample Output-
+Sample Output
 Example backup file created:
 
-backup-1700000000.tar.gz
+```backup-1700000000.tar.gz```
+
+
 ---
 
-## Project Execution Screenshots
+## Project Execution Images
 
 ### Backup Script Implementation
 
@@ -110,6 +112,8 @@ backup-1700000000.tar.gz
 ---
 
 ## Key Learnings (Data & Process Automation Perspective)
+
+What I did? – I implemented a Bash script that automates daily backups by detecting files modified within the last 24 hours using Unix timestamps, arrays, and tar-based compression.
 
 - Leveraged Linux CLI to automate repetitive operational workflows  
 - Applied time-based filtering using Unix timestamps for dynamic data selection  
