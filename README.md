@@ -1,7 +1,5 @@
 
 # Linux Commands and Shell Scripting
-Hands on experience in using Linux commands and shell scripting for file handling, batch operation, and workflow automation.
-
 [![Portfolio](https://img.shields.io/badge/Data%20Velho-Rishi-blueviolet)](https://rishi-analytics.github.io/)
 ![Linux](https://img.shields.io/badge/Linux-CLI-black)
 ![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?logo=gnu-bash&logoColor=white)
@@ -9,12 +7,12 @@ Hands on experience in using Linux commands and shell scripting for file handlin
 ![Project Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
-# <p id="PySpark_Certificate" align="center">
-
+<p id="PySpark_Certificate" align="center">
 <img src="images/kesari.rishi_ShellScriotingCertificate.png"  width="600"  height="600">
-    
 </p>
 
+# Linux Commands and Shell Scripting
+Hands on experience in using Linux commands and shell scripting for file handling, batch operation, and workflow automation.
 ## Overview
 
 This repository demonstrates foundational Linux command line and Bash scripting skills applied to a real-world automation scenario.
