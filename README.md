@@ -1,17 +1,17 @@
+
+# Linux Commands and Shell Scripting
+Hands on experience in using Linux commands and shell scripting for file handling, batch operation, and workflow automation.
+
+[![Portfolio](https://img.shields.io/badge/Data%20Velho-Rishi-blueviolet)](https://rishi-analytics.github.io/)
 ![Linux](https://img.shields.io/badge/Linux-CLI-black)
 ![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?logo=gnu-bash&logoColor=white)
 ![Automation](https://img.shields.io/badge/Automation-Cron-orange)
 ![Project Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-blue)
-[![Portfolio](https://img.shields.io/badge/Data%20Velho-Rishi-blueviolet)](https://rishi-analytics.github.io/)
-
-
-# Linux Commands and Shell Scripting
-Hands on experience in using Linux commands and shell scripting for file handling, batch operation, and workflow automation.
 
 # <p id="PySpark_Certificate" align="center">
 
-<img src="images/kesari.rishi_ShellScriotingCertificate.png"  width="1000"  height="800">
+<img src="images/kesari.rishi_ShellScriotingCertificate.png"  width="600"  height="600">
     
 </p>
 
