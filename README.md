@@ -11,7 +11,6 @@
 <img src="images/kesari.rishi_ShellScriotingCertificate.png"  width="600"  height="600">
 </p>
 
-# Linux Commands and Shell Scripting
 Hands on experience in using Linux commands and shell scripting for file handling, batch operation, and workflow automation.
 ## Overview
 
